@@ -1,2 +1,2 @@
 # hello-world
-Codeday Labs onboarding assignment.
+This is for the Codeday Labs Git onboarding assignment.
